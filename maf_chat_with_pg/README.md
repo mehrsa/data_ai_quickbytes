@@ -1,5 +1,5 @@
 
-## Q: What does exercise this teach me?
+## Q: What does this exercise teach me?
 ### A: How to use the latest (as of Jan 2026) Microsoft Agent Framework to chat with an Azure PostgreSQL database in natural language. It contains examples of single agent and multi-agent solutions.
 
 ### Requirements
